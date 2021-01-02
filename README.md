@@ -1,1 +1,5 @@
 # stewartPlatform
+
+One thing I've wanted to do for a long time, but have never gotten around to, is to design and build my own [Stewart platform - Wikipedia](https://en.wikipedia.org/wiki/Stewart_platform) for simulation purposes. Now, I'm realistic, and I'm not sure that I'll ever actually pull one off that's big enough to support my weight and an entire sim rig, simply due to cost, size, and power. That said, even going through the dynamic modeling, simulation, controller design, and mechanical/electrical/software design portion would be quite entertaining. Not to mention, any of these pieces is clearly a) publication worthy and b) easy to add to github for street cred.
+
+Sounds exciting, but it's a *huge* project, so I'll need to parcel it out and make sure I don't burn out along the way. Even better would be to make sure that I atomize it correctly, and document my work very thoroughly so that it's easy to pick up after having been away for weeks or months. 
